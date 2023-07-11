@@ -5,6 +5,8 @@
 ## An automatic Fortnite Shop Rotator, perfect for any Fortnite OG Private Server!
 
 ### Perfect for Private Server Backends like Lawin / Lawin v2!
+
+<h2> <img src="[https://media.discordapp.net/attachments/1040315775082319942/1040645521754292224/image.png?](https://media.discordapp.net/attachments/985937156692381766/1128475259058790521/image.png)"> </h2>
   
   ### Pre-Requisite
   Download the Dependencies to Launch the Bot here:
