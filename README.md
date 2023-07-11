@@ -9,6 +9,7 @@
   ### Pre-Requisite
   Download the Dependencies to Launch the Bot here:
 > [NodeJS](https://nodejs.org/dist/v19.0.1/node-v19.0.1-x64.msi)
+
 > [Python](https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe)
   
    # Instructions
