@@ -40,6 +40,6 @@
   
   # Congrats, you successfully set up your Daily Item Shop Rotation!🎉
   
- # Enjoy your new **Daily Item Shop Rotator** and feel free to give this Repository a ⭐
+ ## Enjoy your new **Daily Item Shop Rotator** and feel free to give this Repository a ⭐
 
 *Frost☃️
