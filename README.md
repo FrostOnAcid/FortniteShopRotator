@@ -6,6 +6,7 @@
 
 ### Perfect for Private Server Backends like Lawin / Lawin v2!
 
+👇Item Shop Ingame Example (yes i didnt change the featured time)👇
 <h2> <img src="https://media.discordapp.net/attachments/985937156692381766/1128475259058790521/image.png"> </h2>
   
   ### Pre-Requisite
